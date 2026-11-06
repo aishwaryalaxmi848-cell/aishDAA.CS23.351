@@ -1048,16 +1048,19 @@ To write a Python program to generate the Fibonacci series without recursion.
 ## Program
 
 ```python
- + bn = int(input("Enter number of terms: "))
+ 
+n = int(input("Enter number of terms: "))
 
 a = 0
 b = 1
+
 for i in range(n):
     print(a, end=" ")
-    a, b = b, a
+    a, b = b, a + b
 ```
 ## Output
-<img width="317" height="62" alt="image" src="https://github.com/user-attachments/assets/b85eb4d7-134f-4896-8975-e7d0a9ec9ded" />
+<img width="477" height="266" alt="image" src="https://github.com/user-attachments/assets/0bb935b5-789c-4b19-b57d-5c5d3be46977" />
+
 
 [Back to Index](#index)
 
