@@ -982,10 +982,12 @@ else:
 
 ```
 ## Output
-<img width="302" height="45" alt="image" src="https://github.com/user-attachments/assets/f84dae5c-3b86-4f84-9859-737bff6634a8" />
+<img width="560" height="286" alt="image" src="https://github.com/user-attachments/assets/a1b9c5bc-b230-4777-878e-7ca2fce1375c" />
+
 
 ## Flowchart
-<img width="5130" height="3566" alt="Main" src="https://github.com/user-attachments/assets/e87e19da-a0e1-4276-ba66-d7b05dc28207" />
+<img width="1199" height="1312" alt="image" src="https://github.com/user-attachments/assets/347aaa02-3265-4947-8302-96722ba7e14b" />
+
 
 [Back to Index](#index)
 
@@ -1022,10 +1024,12 @@ else:
     print(n, "is not a Prime Number")
 ```
 ## Output
-<img width="300" height="73" alt="image" src="https://github.com/user-attachments/assets/6547e4e5-3e02-44e9-a823-dffb9758a2e2" />
+<img width="401" height="257" alt="image" src="https://github.com/user-attachments/assets/2a670253-f0a3-47bb-acf8-76b22bc188ca" />
+
 
 ## Flowchart
-<img width="1795" height="2554" alt="prime" src="https://github.com/user-attachments/assets/0140851f-1fea-49c1-90ed-14fb478e848a" />
+<img width="1199" height="1312" alt="image" src="https://github.com/user-attachments/assets/47737a92-3740-41a7-ab21-a6d489765209" />
+
 
 [Back to Index](#index)
 
@@ -1044,14 +1048,13 @@ To write a Python program to generate the Fibonacci series without recursion.
 ## Program
 
 ```python
-n = int(input("Enter number of terms: "))
+ + bn = int(input("Enter number of terms: "))
 
 a = 0
 b = 1
-
 for i in range(n):
     print(a, end=" ")
-    a, b = b, a + b
+    a, b = b, a
 ```
 ## Output
 <img width="317" height="62" alt="image" src="https://github.com/user-attachments/assets/b85eb4d7-134f-4896-8975-e7d0a9ec9ded" />
