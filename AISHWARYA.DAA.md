@@ -1095,7 +1095,8 @@ for i in range(terms):
 
 ```
 ## Output
-<img width="367" height="97" alt="image" src="https://github.com/user-attachments/assets/dcfd2128-1025-4e5a-a453-c38a9b5d80e1" />
+<img width="346" height="265" alt="image" src="https://github.com/user-attachments/assets/2b5a8085-b473-408b-a277-a4a32dc5bd29" />
+
 
 [Back to Index](#index)
 
@@ -1151,11 +1152,11 @@ print("Factorial =", fact)
 ```
 
 ## Output
-<img width="173" height="49" alt="image" src="https://github.com/user-attachments/assets/74e975a8-6d42-4194-b21c-fd79a831bf7b" />
+<img width="362" height="282" alt="image" src="https://github.com/user-attachments/assets/c72f94f9-4fb9-45e7-94ad-c56186c7c5bc" />
+
 
 ## Flowchart
-<img width="498" height="668" alt="image" src="https://github.com/user-attachments/assets/e9137c91-161d-49b9-b249-cc0633653e6b" />
-<img width="295" height="633" alt="image" src="https://github.com/user-attachments/assets/22089f0d-cc19-41a3-8f67-b2ef95eef859" />
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/d5139521-178f-4cd4-9840-6a3e306dbe8d" />
 
 [Back to Index](#index)
 
@@ -1186,7 +1187,8 @@ print("The factorial of",number," is" ,result)
 
 ```
 ## Output
-<img width="368" height="75" alt="image" src="https://github.com/user-attachments/assets/3e806384-c3e4-4fbe-b79e-e0df0ebd848e" />
+<img width="342" height="227" alt="image" src="https://github.com/user-attachments/assets/17bcefcb-169f-44d0-9d02-2dcc298becf6" />
+
 
 [Back to Index](#index)
 
@@ -1218,7 +1220,8 @@ while i <= 5:
 
 ```
 ## Output
-<img width="208" height="283" alt="image" src="https://github.com/user-attachments/assets/5cc849c1-491e-4361-b81f-38fd385c4127" />
+<img width="355" height="342" alt="image" src="https://github.com/user-attachments/assets/10b317eb-efeb-45f9-922d-c62a32a49860" />
+
 
 ## Aim
 Write a python program to test the constraints of python(decision-making)
@@ -1250,7 +1253,8 @@ for i in range(1, 6):
 
 ```
 ## Output
-<img width="305" height="310" alt="image" src="https://github.com/user-attachments/assets/f48a5e8c-1c9b-42fe-956a-1cd433daf142" />
+<img width="502" height="377" alt="image" src="https://github.com/user-attachments/assets/b5a1243a-fa1e-46dc-b140-f5a8cd5f849f" />
+
 
 ## Aim
 Write a python program to test the constraints of python(math module)
@@ -1275,7 +1279,7 @@ print(math.fabs(-7))
 
 ```
 ## Output
-<img width="320" height="300" alt="image" src="https://github.com/user-attachments/assets/4575fb55-7b1c-4fc4-8d9a-9ce4a54e21a7" />
+<img width="432" height="362" alt="image" src="https://github.com/user-attachments/assets/db8ec178-ac76-4b70-b242-e4ed1207409a" />
 
 [Back to Index](#index)
 
@@ -1306,7 +1310,7 @@ plt.show()
 
 ```
 ## Output
-<img width="732" height="587" alt="image" src="https://github.com/user-attachments/assets/e5536535-6d6c-4218-a5d5-81b2c2409f63" />
+<img width="795" height="682" alt="image" src="https://github.com/user-attachments/assets/877be8e8-dad4-4c8c-9e86-18b556445224" />
 
 ## Bar Chart
 ```python
@@ -1324,7 +1328,7 @@ plt.show()
 
 ```
 ## Output
-<img width="772" height="592" alt="image" src="https://github.com/user-attachments/assets/43b8a34f-e3d0-42ab-9619-b9bd8652eadd" />
+<img width="811" height="680" alt="image" src="https://github.com/user-attachments/assets/2bd57417-8911-4658-8e24-aae7b7049b97" />
 
 ## Scatter Chart
 ```python
@@ -1342,7 +1346,8 @@ plt.show()
 
 ```
 ## Output
-<img width="752" height="603" alt="image" src="https://github.com/user-attachments/assets/0e920b96-68be-4452-b744-015bc2ccf157" />
+<img width="797" height="690" alt="image" src="https://github.com/user-attachments/assets/774f6e28-52d8-49c9-9004-285294fc0684" />
+
 
 ## Histogram Chart
 ```python
@@ -1361,7 +1366,7 @@ plt.show()
 
 ```
 ## Output
-<img width="772" height="587" alt="image" src="https://github.com/user-attachments/assets/6b11b63b-f474-4360-a445-90a0aa8f6fd7" />
+<img width="797" height="680" alt="image" src="https://github.com/user-attachments/assets/19e44071-6102-4278-b691-91cf41b9c930" />
 
 ## Pie Chart
 ```python
@@ -1426,7 +1431,7 @@ print("O(n!) - Factorial:", math.factorial(n))
 ```
 ## Output
 
-<img width="395" height="172" alt="image" src="https://github.com/user-attachments/assets/d65746ad-1eca-45d7-ad1a-49da748976ca" />
+<img width="347" height="246" alt="image" src="https://github.com/user-attachments/assets/9c6c6233-14d3-4e4a-a263-74fe10cee00f" />
 
 [Back to Index](#index)
 
@@ -1474,7 +1479,7 @@ plt.show()
 ```
 
 ## Output
-<img width="635" height="552" alt="image" src="https://github.com/user-attachments/assets/8f2829d8-897d-4070-8a50-126b3389b04a" />
+<img width="797" height="682" alt="image" src="https://github.com/user-attachments/assets/a9524b81-5fcf-49f9-ac22-90c7e77332a8" />
 
 [Back to Index](#index)
 
