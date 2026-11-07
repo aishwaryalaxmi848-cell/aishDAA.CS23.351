@@ -1558,10 +1558,11 @@ print("Index position", result)
 
 ```
 ## Output
-<img width="560" height="196" alt="image" src="https://github.com/user-attachments/assets/f262f4fd-52f1-4ac3-bea8-f3ea6bfd3e7e" />
+<img width="507" height="372" alt="image" src="https://github.com/user-attachments/assets/ac688848-9176-4769-a581-d75927757cca" />
 
 ## Flowchart
-<img width="2048" height="3382" alt="bs" src="https://github.com/user-attachments/assets/f10307e7-097a-4847-843e-50d0ee712b49" />
+<img width="1199" height="1312" alt="image" src="https://github.com/user-attachments/assets/b11622d3-9b17-4993-9d46-8a8fa96dcafd" />
+
 
 [Back to Index](#index)
 
@@ -1602,7 +1603,7 @@ print("Sorted list (Insertion Sort):", numbers)
 
 ```
 ## Output
-<img width="578" height="191" alt="image" src="https://github.com/user-attachments/assets/4db55c83-b740-4f4c-8071-54d42a57b244" />
+<img width="420" height="275" alt="image" src="https://github.com/user-attachments/assets/41a3fa7c-6258-4ee1-9a62-4e4dae0a10a0" />
 
 [Back to Index](#index)
 
@@ -1662,7 +1663,8 @@ print("Sorted list (Merge Sort):", numbers)
 
 ```
 ## Output
-<img width="587" height="165" alt="image" src="https://github.com/user-attachments/assets/8c71a8ec-b465-4f65-b51f-ccc3877d5a73" />
+<img width="520" height="307" alt="image" src="https://github.com/user-attachments/assets/44514de5-7727-4d74-ae30-82303ce39160" />
+
 
 [Back to Index](#index)
 
@@ -1703,7 +1705,7 @@ print("Sorted list (Quick Sort):", sorted_numbers)
 
 ```
 ## Output
-<img width="512" height="167" alt="image" src="https://github.com/user-attachments/assets/51c89e30-594d-4c37-8343-46731034a5bd" />
+<img width="452" height="306" alt="image" src="https://github.com/user-attachments/assets/30f83272-1930-4a4e-b8f5-2f20b97fb4c1" />
 
 [Back to Index](#index)
 
@@ -1740,7 +1742,7 @@ print("Sorted list (Bubble Sort):", numbers)
 
 ```
 ## Output
-<img width="561" height="190" alt="image" src="https://github.com/user-attachments/assets/c490f336-3dae-444e-a9fd-b42014de9b81" />
+<img width="362" height="240" alt="image" src="https://github.com/user-attachments/assets/b8a95f59-05be-498c-8910-63944e9f3f38" />
 
 [Back to Index](#index)
 
@@ -1780,7 +1782,8 @@ print("Sorted list (Selection Sort):", numbers)
 
 ```
 ## Output
-<img width="596" height="210" alt="image" src="https://github.com/user-attachments/assets/2a8bc5f1-6f50-4bb6-a86a-301a1c16d94a" />
+<img width="412" height="262" alt="image" src="https://github.com/user-attachments/assets/7f328657-9cf1-475b-9f7f-1fb2156744e0" />
+
 
 [Back to Index](#index)
 
@@ -1848,7 +1851,9 @@ graph.print_graph()
 ```
 
 ## Output
-<img width="205" height="174" alt="image" src="https://github.com/user-attachments/assets/5651fa1a-b668-4086-a880-0e73e08e937f" />
+<img width="292" height="232" alt="image" src="https://github.com/user-attachments/assets/2dfd4729-d350-43ac-87d0-aec0c8373981" />
+
+
 
 [Back to Index](#index)
 
@@ -1862,7 +1867,6 @@ graph.print_graph()
 
 ## Aim
 To write a python program to depict a graph given below using classes and objects
-<img width="1085" height="430" alt="image" src="https://github.com/user-attachments/assets/a2e23372-020a-4a93-abad-f87629cde568" />
 
 ## Program
 ```python
@@ -1919,7 +1923,7 @@ graph.print_graph()
 ```
 
 ## Output
-<img width="239" height="184" alt="image" src="https://github.com/user-attachments/assets/0b1bea40-e334-468e-b875-5d9aa36b66f0" />
+<img width="272" height="277" alt="image" src="https://github.com/user-attachments/assets/7378fb6d-511a-41d7-8999-b1f9fe583aad" />
 
 [Back to Index](#index)
 
@@ -2005,7 +2009,7 @@ print()
 ```
 
 ## Output
-<img width="230" height="182" alt="image" src="https://github.com/user-attachments/assets/fc469f2c-9d4d-4eb3-bba1-d69ea984dde5" />
+<img width="291" height="300" alt="image" src="https://github.com/user-attachments/assets/e9991746-ce6c-4e54-a699-825aa643c5c4" />
 
 [Back to Index](#index)
 
@@ -2086,7 +2090,7 @@ print()
 
 ## Output
 
-<img width="216" height="195" alt="image" src="https://github.com/user-attachments/assets/c29dac71-aea2-48fb-a075-8a5111ff0b3e" />
+<img width="285" height="300" alt="image" src="https://github.com/user-attachments/assets/cae6f52a-9a37-4827-8739-e40dd4c6be2c" />
 
 [Back to Index](#index)
 
@@ -2144,7 +2148,7 @@ graph.print_graph()
 
 ```
 ## Output
-<img width="152" height="105" alt="image" src="https://github.com/user-attachments/assets/78dbf4f6-c3b2-44d7-9b32-b677a33a74fe" />
+<img width="351" height="327" alt="image" src="https://github.com/user-attachments/assets/fea79479-c5aa-40be-b8ca-0942634102d1" />
 
 [Back to Index](#index)
 
@@ -2211,7 +2215,8 @@ graph.print_graph()
 
 ## Output
 
-<img width="265" height="140" alt="image" src="https://github.com/user-attachments/assets/44ebfd33-1ef0-40be-9194-458a393bfa56" />
+<img width="412" height="320" alt="image" src="https://github.com/user-attachments/assets/f084334e-2c2d-45d6-8380-57695a061b02" />
+
 
 [Back to Index](#index)
 
@@ -2270,7 +2275,7 @@ graph.print_graph()
 ```
 
 ## Output
-<img width="188" height="112" alt="image" src="https://github.com/user-attachments/assets/e49c821f-743c-4807-88f2-2e6856f36d15" />
+<img width="322" height="275" alt="image" src="https://github.com/user-attachments/assets/8f47c27f-7744-49c5-9b09-4d4df3288892" />
 
 [Back to Index](#index)
 
@@ -2329,7 +2334,8 @@ graph.print_graph()
 ```
 
 ## Output
-<img width="418" height="112" alt="image" src="https://github.com/user-attachments/assets/a79c3647-2b1e-498f-b405-2322549f2698" />
+<img width="547" height="310" alt="image" src="https://github.com/user-attachments/assets/2f765703-3256-4f84-a7b2-4b14784a515d" />
+
 
 [Back to Index](#index)
 
@@ -2388,7 +2394,7 @@ graph.print_graph()
 
 ```
 ## Output
-<img width="448" height="112" alt="image" src="https://github.com/user-attachments/assets/09660f42-3e0b-4cd5-ab5d-f62f21cea85e" />
+<img width="462" height="362" alt="image" src="https://github.com/user-attachments/assets/50f9dabd-e82f-4686-ad31-8deb62c6e6ec" />
 
 [Back to Index](#index)
 
@@ -2496,7 +2502,9 @@ for node, dist in distance.items():
 ```
 
 ## Output
-<img width="155" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2d6ffd-458a-4c1e-9a1a-8d491e4248b8" />
+<img width="426" height="327" alt="image" src="https://github.com/user-attachments/assets/ea6da7f7-2111-4efb-8e6b-c43f358533d6" />
+
+
 
 [Back to Index](#index)
 
@@ -2513,10 +2521,12 @@ Write a python program to demonstrate Bell-Man Ford algorithm.
 
 ## Program
 ```python
+
 class Node:
     def __init__(self, data):
         self.data = data
         self.neighbors = []
+
 
 class Graph:
     def __init__(self):
@@ -2527,17 +2537,15 @@ class Graph:
         self.nodes.append(node)
         return node
 
-    def add_edge(self, node1, node2, weight):
-        node1.neighbors.append((node2, weight))
-        #node2.neighbors.append((node1, weight))
+    def add_edge(self, source, destination, weight):
+        source.neighbors.append((destination, weight))
 
     def print_graph(self):
+        print("Graph:")
         for node in self.nodes:
             print(node.data, "->", end=" ")
-
             for neighbor, weight in node.neighbors:
                 print(f"{neighbor.data}({weight})", end=" ")
-
             print()
 
     def bellman_ford(self, source):
@@ -2577,6 +2585,7 @@ class Graph:
 
         return distance
 
+
 # Create graph
 g = Graph()
 
@@ -2595,7 +2604,7 @@ g.add_edge(B, D, 4)
 # Print graph
 g.print_graph()
 
-# Bellman-Ford
+# Bellman-Ford Algorithm
 distance = g.bellman_ford(A)
 
 print("\nShortest distances from A:")
@@ -2604,10 +2613,11 @@ if distance is not None:
     for node, dist in distance.items():
         print(node.data, "=", dist)
 
+        
 ```
 
 ## Output
-<img width="370" height="236" alt="image" src="https://github.com/user-attachments/assets/79360a11-f743-4c4c-8c91-35c61bc024eb" />
+<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/14dce26f-5b98-4373-9747-87fafda0d337" />
 
 [Back to Index](#index)
 
@@ -2641,7 +2651,8 @@ print("Execution Time:", end - start, "seconds")
 ```
 
 ## Output
-<img width="520" height="51" alt="image" src="https://github.com/user-attachments/assets/ce55bcfd-e39a-4ce6-8360-928c486045fb" />
+<img width="615" height="335" alt="image" src="https://github.com/user-attachments/assets/e6cb1f27-1cd5-4e51-b5ee-926791007c3a" />
+
 
 [Back to Index](#index)
 
@@ -2677,8 +2688,7 @@ tracemalloc.stop()
 ```
 
 ## Output
-
-<img width="410" height="65" alt="image" src="https://github.com/user-attachments/assets/cd34c261-fb6e-4b3a-8cda-5ad363d3366c" />
+<img width="461" height="277" alt="image" src="https://github.com/user-attachments/assets/f250f740-3078-4389-9938-8d150d6b8a35" />
 
 [Back to Index](#index)
 
